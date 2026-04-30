@@ -16,10 +16,9 @@ Shadow AI
 Shadow AI refers to the use of artificial intelligence tools without official approval within an organization. This research analyzes its risks, impact on data security, and governance challenges. It also proposes methods to monitor and control unauthorized AI usage.
 
 ## 📂 Repository Contents
-- Proof of Submission.pdf
-- report.pdf
-- coop2_ppt.pptx
-- notebooks_Graphs.ipynb
+- IPR Submission Proof
+- PPT and Report
+- SourceCode
 
 ## 📊 Current Status
 Completed and Submitted
